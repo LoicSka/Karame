@@ -30,6 +30,12 @@
 }
 
 @font-face {
+	font-family: 'Karame';
+	font-weight: normal;
+	src: local('☺'), url('../fonts/Karame.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: 'unicons';
 	src: url('../fonts/unicons.eot?45242598');
 	src: url('../fonts/unicons.eot?45242598#iefix') format('embedded-opentype'),
