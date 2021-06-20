@@ -8,7 +8,7 @@ Just run the following:
 
 ```bash
 npm install
-or yarn start
+or yarn install
 ```
 
 ```bash
